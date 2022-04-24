@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Копируем один массив в другой", "Копируем один массив в другой\Копируем один массив в другой.vcxproj", "{9DD85A82-84F5-4F44-9E15-7D4923864DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Debug|x64.ActiveCfg = Debug|x64
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Debug|x64.Build.0 = Debug|x64
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Debug|x86.Build.0 = Debug|Win32
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Release|x64.ActiveCfg = Release|x64
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Release|x64.Build.0 = Release|x64
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Release|x86.ActiveCfg = Release|Win32
+		{9DD85A82-84F5-4F44-9E15-7D4923864DCD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF41662-9EC5-45CF-ABC4-B60091D8DDC7}
+	EndGlobalSection
+EndGlobal
